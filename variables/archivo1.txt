@@ -1,0 +1,2 @@
+### en la carpeta variables estoy declarando los tipos de variables, ya sean enteras, de tipo cadena
+## de tipo flotantes, booleanas,
