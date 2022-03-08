@@ -7,3 +7,4 @@ name = "sam"
 age = 15
 print (f"hola, mi nombre es {name},y tengo {age} de edad")
 print ("hola mi nombre es {}" .format(name))
+print ("argumentos\n argumento2")
