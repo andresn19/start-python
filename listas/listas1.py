@@ -12,3 +12,11 @@ print (len(list2))
 print (len(list1))
 print ("hola esposa")
 print("otro hello world")
+list_nueva= [10,70,20,5]
+print (list_nueva)
+list_nueva.sort()
+my_listaordanada = list_nueva
+print ("mi lista ordenada: " + str(my_listaordanada))
+list_nueva.reverse()
+my_listaoriginal = list_nueva
+print ("mi lista original: " + str(my_listaoriginal))
