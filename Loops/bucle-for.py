@@ -1,12 +1,13 @@
 for x in range(2,20,2):
   print("todos estos numeros son pares",x)
-
+##########################
 c=0
 for i in range(7):
     c=c+1
     print ("hola mundo " + str(c))
+    print ("hola mundo 2"  , c)
 
-
+######################
 adj = ["red", "big", "tasty"]
 fruits = ["apple", "banana", "cherry"]
 
