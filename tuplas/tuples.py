@@ -8,5 +8,5 @@ print(asignar)
 print(len(asignar))
 print(type(asignar))
 print(asignar.count('2'))
-print(asignar.index('1'))
+
 
