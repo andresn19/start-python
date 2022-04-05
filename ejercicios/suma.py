@@ -5,4 +5,4 @@ var3= str(input ('Dame tu nombre completo: '))
 
 suma =  var1 + var2
 
-print(f'El resultado es: {suma} bien hecho{var3}')
+print(f'El resultado es: {suma} bien hecho {var3}')
