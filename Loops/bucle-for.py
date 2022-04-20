@@ -14,4 +14,12 @@ fruits = ["apple", "banana", "cherry"]
 for x in adj:
   for y in fruits:
     print(x, y)
+
+
+index_count= 0
+for letter in 'abcde':
+  print('At index {} the letter is {}' .format(index_count,letter))
+  index_count+=1
+  
+
     
