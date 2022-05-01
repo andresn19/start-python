@@ -15,7 +15,19 @@ for letter in mystring:
     print(letter)
 
 
+cuenta = 3;
+while cuenta > 0:
+	print(cuenta)
+	cuenta = cuenta - 1
 
+print("Despegue")
+
+vida = 100
+while vida > 0:
+	print("Sigues con vida")
+	vida = vida - 10
+
+print("Has muerto")
 
 
 
