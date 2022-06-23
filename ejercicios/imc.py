@@ -1,10 +1,4 @@
 ##### calcular la masa muscular #####
-def calcularIMC (parametro):
-    print("el valor del parametro es: " + parametro)
-
-calcularIMC("1")
-calcularIMC("2")
-
 peso=float(input("Ingrese peso KG: "))
 altura=int(input("Ingrese altura Centimetros: "))
 alturaenmetros=altura / 100
