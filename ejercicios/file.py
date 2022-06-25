@@ -1,4 +1,7 @@
-palabra = input ("Introduzca una palabra: ")
+####crear un archivo y guardar en el mismo####
+#archivo = open("texto.txt","a")
+#archivo.write("Prueba de guardo en el archivo")
+#archivo.close()
 
-print ('tu palabra contiene' ,len(palabra) ,'letras')
- 
+archivo= open("texto.txt", "r")
+print(archivo.read())
