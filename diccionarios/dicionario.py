@@ -5,7 +5,7 @@ diccionario={
 }
 
 
-print(diccionario["POO"])
+print(diccionario["MVC"])
 
 numeros={"1":"uno",
           "2":"dos",
