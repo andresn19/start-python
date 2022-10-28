@@ -1,7 +1,7 @@
 ###### otra lista de ejemplo ###
 productos = ["Jugo", "Arroz", "Aceite", "Sal", "Queso"]
 
-productos.pop()
+
 print(productos)
 
 productos.append("Cereales")
@@ -18,4 +18,5 @@ paises = [
 
 paises.append("Canada")
 paises.append("Irlanda")
+paises.pop()
 print(paises)
