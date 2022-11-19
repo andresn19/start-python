@@ -21,3 +21,9 @@ c = "15.21"
 v = "16.672354"
 suma = float(c) + float(v)
 print (suma)
+print ("hola mundo")
+letter= "texto"
+x = 10 * letter
+print(x.upper())
+print (x.split())
+print (x.lower())

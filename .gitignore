@@ -1,1 +1,8 @@
 /listas/leeme.txt
+clases/__pycache__/Persona.cpython-39.pyc
+
+clases/__pycache__/Cliente.cpython-39.pyc
+
+clases/__pycache__/Empleado.cpython-39.pyc
+
+*.pyc
