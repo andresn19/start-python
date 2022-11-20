@@ -1,4 +1,4 @@
-arreglo=["banana", "melon", "piña", "mango"]
+arreglo=["banana", "melon", "piña", "mango", "patilla"]
 
 for fruta in arreglo:
     print("La fruta es: "  + fruta)
