@@ -11,4 +11,8 @@ texto="hola mundo"
 
 for letra in texto:
     print("la letra es: " + letra)
-    
+    print ("hello")
+
+ ##comentario   
+## otro comentario
+## 
