@@ -17,6 +17,7 @@ numeros={"1":"uno",
           "8":"ocho",
           "9":"nueve",
           "0": "cero"
+          "11":"once"
 }
 
 texto=input("Ingrese un numero: ")
