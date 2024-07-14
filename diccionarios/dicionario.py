@@ -16,7 +16,7 @@ numeros={"1":"uno",
           "7":"siste",
           "8":"ocho",
           "9":"nueve",
-          "0": "cero"
+          "0": "cero",
           "11":"once"
 }
 
